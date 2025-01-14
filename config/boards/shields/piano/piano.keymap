@@ -164,7 +164,7 @@
 		bindings = <
 		 		&kp LA(N3)   	&kp LS(N3)	&kp DLLR	    	&kp LS(COMMA)	&kp LS(DOT)		&kp CARET	
 		&kp GRAVE	&kp TILDE 	&kp MINUS      	&kp BSLH	 	&kp LBKT	&kp RBKT	 	&kp PIPE 	&kp SLASH
-				  				&trans  		&trans		&trans  	&trans
+				  				&trans  		&bt BT_NXT		&trans  	&trans
 		>;
 		};
 		sym2 {
